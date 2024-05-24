@@ -4,6 +4,9 @@
   <img src="https://github.com/all-junks/Pop-OS-Interstellar-Theme/blob/main/Demos/img1.png"/>
   <img src="https://github.com/all-junks/Pop-OS-Interstellar-Theme/blob/main/Demos/img2.png"/>
   <img src="https://github.com/all-junks/Pop-OS-Interstellar-Theme/blob/main/Demos/img3.png"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/OS-Linux_Only-f9e2af?style=for-the-badge&logo=linux&logoColor=f9e2af"/>
   <img src="https://img.shields.io/badge/DE-XFCE_ONLY-cba6f7?style=for-the-badge"/>
   <img src="https://img.shields.io/github/stars/all-junks/Pop-OS-Interstellar-Theme?style=for-the-badge&color=e5c890"/>
