@@ -20,7 +20,7 @@ The ultimate guide to ricing your XFCE desktop to make it resemble Pop!_OS!
 
 <pre>git clone https://github.com/all-junks/Pop-OS-Interstellar-Theme.git; cd POp-OS-Interstellar-Theme/; chmod 755 install.sh; chmod +x install.sh; ./install.sh  </pre>
 
-## STEP  2 -- Setup
+## · STEP  2 -- Setup
 
 · Open your settings & go to <code>Appearance</code> & select <code>Frapoppe</code>
 
