@@ -17,7 +17,7 @@ do
             sudo pacman -Syu
             break;;
         "rhel")
-            sudo dnf install plank
+            sudo dnf install plank plank-docklets
             sudo dnf update
             break;;
         "solus")
