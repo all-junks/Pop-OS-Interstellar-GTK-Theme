@@ -32,3 +32,12 @@ The ultimate guide to ricing your XFCE desktop to make it resemble Pop!_OS!
 · Change tab to <code>Fonts</code> & change <code>Default Font</code> to <code>Jetbrains Mono Regular</code>
 
 · Change <code>Monospace Font</code> to <code>Jetbrains Mono Regular</code> as well
+
+## Changelog (v1.0.1):-
+
+· Added 2 new backgrounds
+
+· Modified README.md
+
+<h1 align="center"> You can support me by downloading & installing this theme!
+It really means a lot to me! :) </h1>
