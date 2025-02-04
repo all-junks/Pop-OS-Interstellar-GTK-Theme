@@ -33,7 +33,7 @@ The ultimate guide to ricing your XFCE desktop to make it resemble Pop!_OS!
 
 · Change <code>Monospace Font</code> to <code>Jetbrains Mono Regular</code> as well
 
-## Changelog (v1.0.3):-
+## Changelog (v1.0.4):-
 
 · Modified <code>install.sh</code> file
 
