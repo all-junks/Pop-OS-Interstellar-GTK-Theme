@@ -38,6 +38,12 @@ The ultimate guide to ricing your XFCE desktop to make it resemble Pop!_OS!
 
 · Choose your background (if you want, I suggest you turn on 'Change the background' to make your desktop a slideshow)
 
+· Close settings & open the Plank app
+
+· Hover to the bottom of your screen & right click at the absolute edge of the Plank dock
+
+· Select <code>Preferences</code> & change the theme to <code>Gtk+</code> or <code>Catppuccin-frappe</code> (based on your OS)
+
 ### Enjoy!
 
 ## Changelog (v1.0.8):-
