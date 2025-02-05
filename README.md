@@ -2,9 +2,9 @@
 
 <h1 align="center"><img width=750 src="https://github.com/all-junks/Pop-OS-Interstellar-Theme/blob/main/Demos/demo1.png"/></h1>
 <h3 align="center"><em>Demo 1 - with Interstellar</em></h3>
-<h1 align="center"><img width=750 src="https://github.com/all-junks/Pop-OS-Interstellar-Theme/blob/main/Demos/demo1.png"/></h1>
+<h1 align="center"><img width=750 src="https://github.com/all-junks/Pop-OS-Interstellar-Theme/blob/main/Demos/demo2.png"/></h1>
 <h3 align="center"><em>Demo 2 - with Cosmic</em></h3>
-<h1 align="center"><img width=750 src="https://github.com/all-junks/Pop-OS-Interstellar-Theme/blob/main/Demos/demo1.png"/></h1>
+<h1 align="center"><img width=750 src="https://github.com/all-junks/Pop-OS-Interstellar-Theme/blob/main/Demos/demo3.png"/></h1>
 <h3 align="center"><em>Demo 3 - with Classic<em></h3>
 
 <p align="center">
