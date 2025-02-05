@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git clone https://github.com/all-junks/Frapoppe.git; unzip -q '*.zip'; rm -f *.zip; sudo cp -r Icons/Zafiro-Nord-Black-Blue /usr/share/icons/; sudo cp -r Fonts/JetBrainsMono-2.304 /usr/share/fonts/; sudo cp -r Cursors/Catppuccin-Frappe-Light-Cursors /usr/share/icons/; cd Frapoppe; chmod 755 install.sh; chmod +x install.sh; ./install.sh
+git clone https://github.com/all-junks/Frapoppe.git; git clone https://github.com/catppuccin/plank.git; unzip -q '*.zip'; rm -f *.zip; sudo cp -r Icons/Zafiro-Nord-Black-Blue /usr/share/icons/; sudo cp -r Fonts/JetBrainsMono-2.304 /usr/share/fonts/; sudo cp -r Cursors/Catppuccin-Frappe-Light-Cursors /usr/share/icons/; cd Frapoppe; chmod 755 install.sh; chmod +x install.sh; ./install.sh; cd ..; cd plank/src; sudo cp Catppuccin-frappe ~/.local/share/plank/themes/
 
 PS3="Select your distro for installation of Plank dock: "
 
