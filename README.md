@@ -40,7 +40,7 @@ The ultimate guide to ricing your XFCE desktop to make it resemble Pop!_OS!
 
 ### Enjoy!
 
-## Changelog (v1.0.7):-
+## Changelog (v1.0.8):-
 
 · Modified <code>install.sh</code> file
 
