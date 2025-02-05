@@ -44,11 +44,17 @@ The ultimate guide to ricing your XFCE desktop to make it resemble Pop!_OS!
 
 · Select <code>Preferences</code> & change the theme to <code>Gtk+</code> or <code>Catppuccin-frappe</code> (based on your OS)
 
+### FOLLOW THESE STEPS IF YOUR XFCE PANEL IS AT THE BOTTOM!:-
+
+· Right click on your XFCE panel & hover your cursor to <code>Panel</code> & press on <code>Panel Preferences</code> 
+
+· Deselect <code>Lock Panel</code> & move your mouse to the absolute edges of the panel & hold your left click button & drag your mouse upwards until the panel stops at the upper part of your screen
+
+· Reselect <code>Lock Panel</code> & close the window
+
 ### Enjoy!
 
 ## Changelog (v1.0.8):-
-
-· Modified <code>install.sh</code> file
 
 · Modified <code>README.md</code> file
 
