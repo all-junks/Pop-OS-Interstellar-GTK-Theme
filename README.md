@@ -5,7 +5,7 @@
 <h1 align="center"><img width=750 src="https://github.com/all-junks/Pop-OS-Interstellar-Theme/blob/main/Demos/demo2.png"/></h1>
 <h3 align="center"><em>Demo 2 - with Cosmic</em></h3>
 <h1 align="center"><img width=750 src="https://github.com/all-junks/Pop-OS-Interstellar-Theme/blob/main/Demos/demo3.png"/></h1>
-<h3 align="center"><em>Demo 3 - with Classic<em></h3>
+<h3 align="center"><em>Demo 3 - with Classic</em></h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Linux_Only-f9e2af?style=for-the-badge&logo=linux&logoColor=f9e2af"/>
@@ -40,9 +40,11 @@ The ultimate guide to ricing your XFCE desktop to make it resemble Pop!_OS!
 
 ### Enjoy!
 
-## Changelog (v1.0.5):-
+## Changelog (v1.0.6):-
 
 · Modified <code>README.md</code> file
+
+### PS: If you want more info about my Frapoppé theme & how to install only my theme, be sure to visit <code>https://github.com/all-junks/Frapoppe</code>!
 
 <h1 align="center"> You can support me by downloading & installing this theme!
 It really means a lot to me! :) </h1>
