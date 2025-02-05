@@ -25,13 +25,19 @@ The ultimate guide to ricing your XFCE desktop to make it resemble Pop!_OS!
 
 ## · STEP  2 -- Setup
 
-· Open your settings & go to <code>Appearance</code> & select <code>Frapoppe</code>
+· Open your settings & go to <code>Appearance</code> & select <code>Frapoppe <whatever model you've installed></code>
 
 · Change tab to <code>Icons</code> & select <code>Zafiro-Nord-Black-Blue</code>
 
 · Change tab to <code>Fonts</code> & change <code>Default Font</code> to <code>Jetbrains Mono Regular</code>
 
 · Change <code>Monospace Font</code> to <code>Jetbrains Mono Regular</code> as well
+
+· Go back & open <code>Desktop</code> & click on button next to where it says 'Folder:' & select the <code>Backgrounds</code> folder in <code>~/Pop-OS-Interstellar-Theme/</code> (unless you've moved that folder somewhere else)
+
+· Choose your background (if you want, I suggest you turn on 'Change the background' to make your desktop a slideshow)
+
+### Enjoy!
 
 ## Changelog (v1.0.4):-
 
