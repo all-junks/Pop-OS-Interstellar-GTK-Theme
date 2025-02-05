@@ -1,6 +1,11 @@
 <h1 align="center"> Pop!_OS Interstellar Theme </h1>
 
-
+<h1 align="center"><img width=750 src="https://github.com/all-junks/Pop-OS-Interstellar-Theme/blob/main/Demos/demo1.png"/></h1>
+<h3 align="center"><em>Demo 1 - with Interstellar</em></h3>
+<h1 align="center"><img width=750 src="https://github.com/all-junks/Pop-OS-Interstellar-Theme/blob/main/Demos/demo1.png"/></h1>
+<h3 align="center"><em>Demo 2 - with Cosmic</em></h3>
+<h1 align="center"><img width=750 src="https://github.com/all-junks/Pop-OS-Interstellar-Theme/blob/main/Demos/demo1.png"/></h1>
+<h3 align="center"><em>Demo 3 - with Classic<em></h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Linux_Only-f9e2af?style=for-the-badge&logo=linux&logoColor=f9e2af"/>
