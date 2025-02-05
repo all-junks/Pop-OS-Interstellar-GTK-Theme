@@ -1,10 +1,11 @@
 <h1 align="center"> Pop!_OS Interstellar Theme </h1>
 
-<p align="center">
-  <img src="https://github.com/all-junks/Pop-OS-Interstellar-Theme/blob/main/Demos/img1.png"/>
-  <img src="https://github.com/all-junks/Pop-OS-Interstellar-Theme/blob/main/Demos/img2.png"/>
-  <img src="https://github.com/all-junks/Pop-OS-Interstellar-Theme/blob/main/Demos/img3.png"/>
-</p>
+<h1 align="center"><img width=750 src="https://github.com/all-junks/Pop-OS-Interstellar-Theme/blob/main/Demos/img1.png"/></h1>
+<h3 align="center"><em>Demo 1 - with Interstellar</em></h3>
+<h1 align="center"><img width=750 src="https://github.com/all-junks/Pop-OS-Interstellar-Theme/blob/main/Demos/img2.png"/></h1>
+<h3 align="center"><em>Demo 2 - with Cosmic</em></h3>
+<h1 align="center"><img width=750 src="https://github.com/all-junks/Pop-OS-Interstellar-Theme/blob/main/Demos/img3.png"/></h1>
+<h3 align="center"><em>Demo 3 - with Classic<em></h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Linux_Only-f9e2af?style=for-the-badge&logo=linux&logoColor=f9e2af"/>
@@ -39,9 +40,7 @@ The ultimate guide to ricing your XFCE desktop to make it resemble Pop!_OS!
 
 ### Enjoy!
 
-## Changelog (v1.0.4):-
-
-· Modified <code>install.sh</code> file
+## Changelog (v1.0.5):-
 
 · Modified <code>README.md</code> file
 
