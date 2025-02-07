@@ -42,7 +42,7 @@ The ultimate guide to ricing your XFCE desktop to make it resemble Pop!_OS!
 
 · Hover to the bottom of your screen & right click at the absolute edge of the Plank dock
 
-· Select <code>Preferences</code> & change the theme to <code>Gtk+</code> or <code>Catppuccin-frappe</code> (based on your OS)
+· Select <code>Preferences</code> & change the theme to <code>Catppuccin-frappe</code>
 
 ### FOLLOW THESE STEPS IF YOUR XFCE PANEL IS AT THE BOTTOM!:-
 
@@ -54,9 +54,11 @@ The ultimate guide to ricing your XFCE desktop to make it resemble Pop!_OS!
 
 ### Enjoy!
 
-## Changelog (v1.0.8):-
+## Changelog (v1.0.9):-
 
 · Modified <code>README.md</code> file
+
+· Modified <code>install.sh</code> file
 
 ### PS: If you want more info about my Frapoppé theme & how to install only my theme, be sure to visit <code>https://github.com/all-junks/Frapoppe</code>!
 
