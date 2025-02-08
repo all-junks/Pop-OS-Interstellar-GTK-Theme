@@ -38,7 +38,21 @@ The ultimate guide to ricing your XFCE desktop to make it resemble Pop!_OS!
 
 · Choose your background (if you want, I suggest you turn on 'Change the background' to make your desktop a slideshow)
 
-· Close settings & open the Plank app
+· Go back & open <code>Window Manager</code> & change <code>Title Font</code> to <code>Jetbrains Mono Regular</code>
+
+· Go back & open <code>Window Manager Tweaks</code> & change tab to <code>Compositor</code>
+
+· Deselect <code>Show shadows under popup windows</code>
+
+· Go back & open <code>Session and Startup</code> & change the tab to <code>Application Autostart</code>
+
+· Press the <code>Add</code> button
+
+· Add name "Plank" in the <code>Name:</code> section
+
+· Add command <code>plank</code> in the <code>Command:</code> section
+
+· Press <code>OK</code> & close settings & open the Plank app
 
 · Hover to the bottom of your screen & right click at the absolute edge of the Plank dock
 
@@ -54,11 +68,9 @@ The ultimate guide to ricing your XFCE desktop to make it resemble Pop!_OS!
 
 ### Enjoy!
 
-## Changelog (v1.0.9):-
+## Changelog (v1.1.0):-
 
 · Modified <code>README.md</code> file
-
-· Modified <code>install.sh</code> file
 
 ### PS: If you want more info about my Frapoppé theme & how to install only my theme, be sure to visit <code>https://github.com/all-junks/Frapoppe</code>!
 
