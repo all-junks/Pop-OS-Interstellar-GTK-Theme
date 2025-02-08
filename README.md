@@ -62,7 +62,7 @@ The ultimate guide to ricing your XFCE desktop to make it resemble Pop!_OS!
 
 · Change <code>Icons:</code> to <code>Zafiro-Nord-Black-Blue</code>
 
-· Change <code>Backgrounds:</code> & select any one of the custom Interstellar-themed backgrounds
+· Change <code>Backgrounds:</code> & select any one of the custom Interstellar-themed backgrounds ***in the root***
 
 · Select <code>Use user wallpaper if available</code>
 
@@ -82,7 +82,7 @@ The ultimate guide to ricing your XFCE desktop to make it resemble Pop!_OS!
 
 ### Enjoy!
 
-## Changelog (v1.1.1):-
+## Changelog (v1.1.2):-
 
 · Modified <code>README.md</code> file
 
