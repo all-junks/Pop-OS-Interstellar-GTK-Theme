@@ -30,4 +30,4 @@ do
     esac
 done
 
-plank; sudo cp Catppuccin-frappe ~/.local/share/plank/themes/; cd ~/; sudo cp ./themes/* /usr/share/themes
+plank; sudo cp Catppuccin-frappe ~/.local/share/plank/themes/; cd ~/; sudo cp ./themes/* /usr/share/themes; cd ~/Pop-OS-Interstellar-Theme/; sudo cp Backgrounds/* /usr/share/backgrounds/
