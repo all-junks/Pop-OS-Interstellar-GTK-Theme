@@ -52,7 +52,21 @@ The ultimate guide to ricing your XFCE desktop to make it resemble Pop!_OS!
 
 · Add command <code>plank</code> in the <code>Command:</code> section
 
-· Press <code>OK</code> & close settings & open the Plank app
+· Press <code>OK</code> & go back
+
+· Open <code>LightDM GTK Greeter Settings</code> & enter your password
+
+· Change <code>Themes:</code> to <code>Frapoppe-<whatever model you've installed></code>
+
+· Change <code>Font:</code> to <code>Jetbrains Mono Regular</code>
+
+· Change <code>Icons:</code> to <code>Zafiro-Nord-Black-Blue</code>
+
+· Change <code>Backgrounds:</code> & select any one of the custom Interstellar-themed backgrounds
+
+· Select <code>Use user wallpaper if available</code>
+
+· Close settings & open <code>Plank</code>
 
 · Hover to the bottom of your screen & right click at the absolute edge of the Plank dock
 
@@ -68,9 +82,11 @@ The ultimate guide to ricing your XFCE desktop to make it resemble Pop!_OS!
 
 ### Enjoy!
 
-## Changelog (v1.1.0):-
+## Changelog (v1.1.1):-
 
 · Modified <code>README.md</code> file
+
+· Modified <code>install.sh</code> file
 
 ### PS: If you want more info about my Frapoppé theme & how to install only my theme, be sure to visit <code>https://github.com/all-junks/Frapoppe</code>!
 
