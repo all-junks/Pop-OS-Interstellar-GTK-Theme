@@ -82,7 +82,7 @@ The ultimate guide to ricing your XFCE desktop to make it resemble Pop!_OS!
 
 ### Enjoy!
 
-## Changelog (v1.1.2):-
+## Changelog (v1.1.3):-
 
 · Modified <code>README.md</code> file
 
