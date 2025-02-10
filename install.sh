@@ -26,7 +26,7 @@ do
             sudo zypper update
             break;;
         *)
-            echo Invalid option, retrying... ;;
+            echo "Invalid option, retrying..." ;;
     esac
 done
 
